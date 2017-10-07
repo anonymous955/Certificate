@@ -1,5 +1,5 @@
 # Certificate
-Here are my certificates
+Here are my certificates:  
 Introduction to Computer science and programming using python from edx.
 https://courses.edx.org/certificates/7ab9dc94ddd64213890a94ad3013f79e  
 Programming for everybody getting started with Python from coursera.
